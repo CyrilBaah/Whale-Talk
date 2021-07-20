@@ -1,6 +1,6 @@
 let input = 'turpentine and turtles'; //UUEEIEEAUUEE
-let input = 'Hi, Human'; //IUUA
-let input = 'a whale of a deal!' //AAEEOAEEA
+// let input = 'Hi, Human'; //IUUA
+// let input = 'a whale of a deal!' //AAEEOAEEA
 
 let vowels = ['a', 'e', 'i', 'o', 'u'];
 
